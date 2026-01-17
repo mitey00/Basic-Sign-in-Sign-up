@@ -10,9 +10,9 @@
         <img src ="<?php echo $image_url;?>">
        
         <?php
-        $fname = 'Joseph Miles';
-        $lname = 'Grajo';
-        $stunum = "19-2920-805";
+        $fname = 'Jo';
+        $lname = 'Gr';
+        $stunum = "19";
         $course = 'Bachelor in Science in Computer Science';
         $gender = 'Male';    
         ?>
